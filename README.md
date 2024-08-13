@@ -1,7 +1,5 @@
 # data-structures-cs232
-DATA STRUCTURES IN C-PROGRAMMING - MO24
-
-SYLLABUS
+*SYLLABUS*
 1. Program to Find the Number of Elements in an Array.
 2. Develop and Implement a menu driven program in C for the following Array operations<br>
     a. Creating Array of N Integer elements.<br>
